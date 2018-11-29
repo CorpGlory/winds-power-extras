@@ -4,7 +4,7 @@ This repo contains:
 
 - [Test-dataset in CSV format](dataset.csv)
 
-- [How-to add test-dataset to TimescaleDB](How-to.md)
+- [How-to import test-dataset to TimescaleDB](How-to.md)
 
 - [.ipynb R script to generate test-dataset](generate-dataset.ipynb)
 
