@@ -16,9 +16,11 @@ CREATE TABLE wind_pwr_spd(
 ```
 - Insert data
 
-For example:
+Full insert command set to import [dataset.csv](dataset.csv) can be found in [insert.sql](insert.sql)
+
+Example:
 ```SQL
 INSERT INTO wind_pwr_spd(time, power, speed) VALUES (NOW(), 3055.86957961, 25);
 ```
 
-Full insert command set to import [dataset.csv](dataset.csv) can be found in [insert.sql](insert.sql)
+
